@@ -1,0 +1,30 @@
+body { margin:0;
+    position:fixed;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+  font-family: sans-serif
+  }
+  
+  #bigOne {
+  display: block; margin: auto}
+  
+  #arrows {
+  display: block; margin: auto}
+  
+  #DivToShow {position: absolute;
+  opacity: 0;
+  background: black;
+  border-radius: 3px;
+  opacity: 0.8
+  }
+  
+  #textDiv {color: white;
+  text-align: center;
+  padding-left: 5px;
+  padding-right: 5px}
+  
+  h1 {
+    text-align: center;
+  }
